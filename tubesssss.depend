@@ -1,0 +1,80 @@
+# depslib dependency file v1.0
+1490690599 source:f:\semester 2\struktur data\tubes\tubesasd\aplikasi.cpp
+	<iostream>
+	"aplikasi.h"
+	"parent.h"
+	"childs.h"
+	"RELASI.h"
+
+1490678427 f:\semester 2\struktur data\tubes\tubesasd\aplikasi.h
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	"childs.h"
+	"parent.h"
+	"RELASI.h"
+
+1490684638 f:\semester 2\struktur data\tubes\tubesasd\childs.h
+	<iostream>
+
+1490690992 f:\semester 2\struktur data\tubes\tubesasd\parent.h
+	<iostream>
+
+1490691433 f:\semester 2\struktur data\tubes\tubesasd\relasi.h
+	"parent.h"
+	"childs.h"
+	<iostream>
+
+1490690916 source:f:\semester 2\struktur data\tubes\tubesasd\childs.cpp
+	"childs.h"
+
+1490690329 source:f:\semester 2\struktur data\tubes\tubesasd\main.cpp
+	<iostream>
+	<conio.h>
+
+1490691012 source:f:\semester 2\struktur data\tubes\tubesasd\parent.cpp
+	"parent.h"
+	<iostream>
+
+1490718335 source:f:\semester 2\struktur data\tubes\tubesasd - copy\aplikasi.cpp
+	<iostream>
+	"aplikasi.h"
+	"parent.h"
+	"childs.h"
+	"RELASI.h"
+
+1490718335 f:\semester 2\struktur data\tubes\tubesasd - copy\aplikasi.h
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	"childs.h"
+	"parent.h"
+	"RELASI.h"
+
+1490718335 f:\semester 2\struktur data\tubes\tubesasd - copy\childs.h
+	<iostream>
+
+1490718335 f:\semester 2\struktur data\tubes\tubesasd - copy\parent.h
+	<iostream>
+
+1490718335 f:\semester 2\struktur data\tubes\tubesasd - copy\relasi.h
+	"parent.h"
+	"childs.h"
+	<iostream>
+
+1490718335 source:f:\semester 2\struktur data\tubes\tubesasd - copy\childs.cpp
+	"childs.h"
+
+1490690329 source:f:\semester 2\struktur data\tubes\tubesasd - copy\main.cpp
+	<iostream>
+	<conio.h>
+
+1490718335 source:f:\semester 2\struktur data\tubes\tubesasd - copy\parent.cpp
+	"parent.h"
+	<iostream>
+
+1490718335 source:f:\semester 2\struktur data\tubes\tubesasd - copy\relasi.cpp
+	"RELASI.h"
+	<iostream>
+
